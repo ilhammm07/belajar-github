@@ -1,4 +1,4 @@
 -cabe 1 kilo
--ayam 1 ekor
+-ayam 10 ekor
 -bawang merah 1/2kg
 -gula 1kg
