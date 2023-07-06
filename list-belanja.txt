@@ -1,0 +1,3 @@
+-cabe 1 kilo
+-ayam 1 ekor
+-minyak 3 kg
